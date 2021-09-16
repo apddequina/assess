@@ -12,9 +12,9 @@ LOCAL SERVER--
 6.) Type "php artisan storage:link" in the terminal on the root folder.
 7.) Type "php artisan " in the terminal on the root folder.
 8.) Type "php artisan serve" in the terminal on the root folder.
-
+9.) Run server " 127.0.0.1:8000 " in your browser.
 AUTHENTICATION--
-9.) Register access details.
-10.) Email apddequina@gmail.com for addition support.
+10.) Register access details.
+11.) Email apddequina@gmail.com for addition support.
 
 ##
